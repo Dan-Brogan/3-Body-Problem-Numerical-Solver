@@ -17,4 +17,4 @@ OUTPUTS:
 
 -> Graphical animation of body motion through time
 
-This script calculates the acceleration of each body using the laws of gravitational perturbation and integrates twice to calculate the position of the bodies at every time step.
+These scripts calculate the acceleration of each body using the laws of gravitational perturbation and integrates twice to calculate the position of the bodies at every time step.
